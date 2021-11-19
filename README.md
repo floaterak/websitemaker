@@ -182,7 +182,7 @@ Find out more about plugins here: [Creating plugins](https://grapesjs.com/docs/m
 
 
 ## Support
-
+https://www.paypal.com/donate?hosted_button_id=GVZ23CFW2ET2G
 
 
 ## License
